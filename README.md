@@ -32,7 +32,7 @@
 
 - 📝 **Portfolio Blog** `private` – Personal portfolio and blog website built with Next.js, TypeScript, and MDX
 - 📄 **Paperfolio** `private` – Personal portfolio site built with v0 by Vercel
-- 🚀 **LeaniOS** `private` – Full-stack Next.js boilerplate with auth, user management, admin panel, and role-based access (Supabase)
+- 🚀 **LeaniOS** `private` – Full-stack Next.js boilerplate with auth, user management, admin panel, and role-based access (Supabase) — my first vibe coding project, from my most loving mentor
 
 ## Background
 
