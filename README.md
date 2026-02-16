@@ -10,15 +10,29 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 > From the operating table to the terminal — a veterinary neurosurgeon turned software developer, building AI-powered tools that help small businesses and vet clinics work smarter.
 
 ## Current Projects
 
+### 🐾 Veterinary & Cats
+
+- 🐱 **MorMeow** `private` – Thai-first bilingual cat health knowledge hub with 826+ vet articles across 21 categories, AI diagnostic chatbot, faceted search, and hospital directory — built by a licensed DVM
 - 🩸 **[vetblood-ai](https://github.com/mingrath/vetblood-ai)** – AI-powered animal blood test analyzer for Thai vet clinics (Gemini 3 Hackathon)
+- 🏠 **Cat Adopt Questionnaire** `private` – Bilingual cat adoption screening app with personality matching quiz, 30+ question automated scoring, and admin dashboard
+
+### 💻 Developer Tools & Apps
+
 - 📊 **[claude-code-statusline](https://github.com/mingrath/claude-code-statusline)** – Custom statusline for Claude Code with real-time rate limit usage percentages and progress bars
-- ⛳ **[golf-handicap](https://github.com/mingrath/golf-handicap)** – Golf handicap tracker and calculator
 - 💰 **[expense-tracker](https://github.com/mingrath/expense-tracker)** – Personal expense tracking app
+- ⛳ **[golf-handicap](https://github.com/mingrath/golf-handicap)** – Golf handicap tracker and calculator
+
+### 🌐 Web & Portfolio
+
+- 📝 **Portfolio Blog** `private` – Personal portfolio and blog website built with Next.js, TypeScript, and MDX
+- 📄 **Paperfolio** `private` – Personal portfolio site built with v0 by Vercel
+- 🚀 **LeaniOS** `private` – Full-stack Next.js boilerplate with auth, user management, admin panel, and role-based access (Supabase)
 
 ## Background
 
