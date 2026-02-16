@@ -18,7 +18,7 @@
 
 ### 🐾 Veterinary & Cats
 
-- 🐱 **[MorMeow](https://meowmed-alpha.vercel.app)** `private` – Thai-first bilingual cat health knowledge hub with 826+ vet articles across 21 categories, AI diagnostic chatbot, faceted search, and hospital directory — built by a licensed DVM
+- 🐱 **[MorMeow](https://mormeow.com)** `private` – Thai-first bilingual cat health knowledge hub with 826+ vet articles across 21 categories, AI diagnostic chatbot, faceted search, and hospital directory — built by a licensed DVM
 - 🩸 **[vetblood-ai](https://github.com/mingrath/vetblood-ai)** – AI-powered animal blood test analyzer for Thai vet clinics (Gemini 3 Hackathon)
 - 🏠 **Cat Adopt Questionnaire** `private` – Bilingual cat adoption screening app with personality matching quiz, 30+ question automated scoring, and admin dashboard
 
