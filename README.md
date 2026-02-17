@@ -22,9 +22,15 @@
 - 🩸 **[vetblood-ai](https://github.com/mingrath/vetblood-ai)** – AI-powered animal blood test analyzer for Thai vet clinics (Gemini 3 Hackathon)
 - 🏠 **Cat Adopt Questionnaire** `private` – Bilingual cat adoption screening app with personality matching quiz, 30+ question automated scoring, and admin dashboard
 
+### 🤖 Claude Code Extensions
+
+> Open-source tools that make Claude Code's autonomous mode actually usable — know what's happening and get notified when it needs you.
+
+- 📊 **[claude-code-statusline](https://github.com/mingrath/claude-code-statusline)** – Custom statusline showing real-time rate limit usage %, context window %, session cost, and git status with progress bars
+- 🔔 **[claude-code-notify](https://github.com/mingrath/claude-code-notify)** – Push notifications to Mac, iPhone, and Apple Watch when Claude Code needs your input — via terminal-notifier + ntfy.sh + hooks
+
 ### 💻 Developer Tools & Apps
 
-- 📊 **[claude-code-statusline](https://github.com/mingrath/claude-code-statusline)** – Custom statusline for Claude Code with real-time rate limit usage percentages and progress bars
 - 💰 **[expense-tracker](https://github.com/mingrath/expense-tracker)** – Personal expense tracking app
 - ⛳ **[golf-handicap](https://github.com/mingrath/golf-handicap)** – Golf handicap tracker and calculator
 
