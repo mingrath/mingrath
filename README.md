@@ -23,7 +23,7 @@
 - 🩸 **[vetblood-ai](https://github.com/mingrath/vetblood-ai)** – AI-powered animal blood test analyzer for Thai vet clinics using Google Gemini — Gemini 3 Hackathon project
 - 🔬 **Vet Blood Tracker** `private` – Advanced blood test analysis platform with Tesseract OCR for lab report scanning, trend tracking, and Google Gemini 2.0 Flash interpretation — built with Next.js 16, Prisma, and SQLite
 - 🏠 **Cat Adopt Questionnaire** `private` – Bilingual cat adoption screening app with personality matching quiz, 30+ question automated scoring, and admin dashboard — built with Next.js 16 and Supabase
-- 🏥 **Vet Clinic Demo** `private` – Modern veterinary clinic website clone with appointment booking and service showcase — built with Next.js and TypeScript
+- 🏥 **Web Clinic Demo** `private` – Modern veterinary clinic website clone with appointment booking and service showcase — built with Next.js and TypeScript
 - 🏥 **PawClinic Website** `private` – Veterinary clinic website with responsive design — built with Next.js 15 and Tailwind CSS 4
 
 ### 🤖 AI & Business
