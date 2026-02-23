@@ -26,8 +26,9 @@
 - 🏥 **Web Clinic Demo** `private` – Modern veterinary clinic website clone with appointment booking and service showcase — built with Next.js and TypeScript
 - 🏥 **PawClinic Website** `private` – Veterinary clinic website with responsive design — built with Next.js 15 and Tailwind CSS 4
 
-### 🤖 AI & Business
+### 🤖 AI & Agents
 
+- 🐾 **OpenClaw** `private` – Personal AI agent framework with persistent identity and memory. Multi-agent architecture with project-specific agents (vet chatbot, web design, courses, personal finance), shared skill system (ComfyUI image generation, RAG/ChromaDB retrieval, FFmpeg video editing), heartbeat-based proactive scheduling, and Discord/Telegram/LINE integrations — built with Claude Code, Python, and Node.js
 - 🧠 **[SMEAI](https://smeaithai.com)** — Thai-primary AI knowledge hub teaching SME owners how to adopt AI affordably. Articles, case studies, and video content with Pagefind search and Lighthouse 100/100 performance — built with Astro 5, Tailwind CSS v4, and Cloudflare Pages
 
 ### 🔧 Claude Code & Open-Source Tools
@@ -42,11 +43,11 @@
 ### 💻 Developer Tools & Apps
 
 - 💰 **[expense-tracker](https://github.com/mingrath/expense-tracker)** – Personal expense tracking app built with Next.js and TypeScript
-- ⛳ **[golf-handicap](https://github.com/mingrath/golf-handicap)** – Mobile-first PWA for pairwise handicap golf scoring with configurable handicaps and turbo holes — built with Next.js 16, Zustand, and Tailwind CSS 4
+- ⛳ **[golf-handicap](https://github.com/mingrath/golf-handicap)** – Mobile-first PWA for pairwise handicap golf scoring with configurable handicaps, turbo holes, and game history editing — built with Next.js 16, Zustand, and Tailwind CSS 4
 - 🎬 **Video Production Tool** `private` – Automated video production and captioning pipeline using Remotion and Whisper.cpp for subtitle generation
 - 📡 **Reddit Monitor** `private` – Reddit keyword monitoring and alert system for tracking topics and mentions
 - 🕷️ **LBC Scraper** `private` – Web scraper with Next.js dashboard for data visualization — built with Python Scrapy and Next.js
-- ⚖️ **Weight & Food Tracker** `private` – Health tracking app for daily weight and food intake monitoring — built with Next.js 16
+- ⚖️ **Weight & Food Tracker** `private` – Health tracking app for daily weight and food intake monitoring with AI-powered meal suggestions — built with Next.js 16
 
 ### 🌐 Web & Portfolio
 
