@@ -30,6 +30,7 @@
   - **Bucky** — personal finance agent on Telegram that parses Thai bank slip photos (SCB, KBank, KTB, KTC, BB, PromptPay) via vision OCR and logs transactions to Actual Budget
   - **Team** — LINE OA chatbot for a client clinic with Thai-language RAG knowledge base for customer Q&A
   - Built with Claude Code, Python, Node.js, and Ollama for local LLM fallback
+- 📖 **[openclaw-line-bot](https://github.com/mingrath/openclaw-line-bot)** – Beginner-friendly guide (EN/TH) for building a LINE OA AI chatbot using OpenClaw and Claude — includes workspace templates, RAG knowledge base setup, and ngrok integration
 - 💰 **Actual Budget** `private` – Self-hosted personal finance server running on Docker with 10+ bank and brokerage accounts — connected to OpenClaw's Bucky agent for automated expense tracking via `@actual-app/api`
 - 🧠 **[SMEAI](https://smeaithai.com)** — Thai-primary AI knowledge hub teaching SME owners how to adopt AI affordably. Articles, case studies, and video content with Pagefind search and Lighthouse 100/100 performance — built with Astro 5, Tailwind CSS v4, and Cloudflare Pages
 
