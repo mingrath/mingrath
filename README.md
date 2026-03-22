@@ -42,6 +42,35 @@ I'm a licensed veterinarian (Chulalongkorn University DVM) building AI tools for
 | [**vetblood-ai**](https://github.com/mingrath/vetblood-ai) | AI-powered animal blood test analyzer for vet clinics — Gemini 3 Hackathon |
 | [**tenacitOS**](https://github.com/mingrath/tenacitOS) | Mission control dashboard for monitoring and managing AI agent fleet |
 
+## Hackathons & Competitions
+
+### Super AI Engineer Season 6 — Election OCR (March 2026)
+
+**[Kaggle Competition](https://www.kaggle.com/competitions/super-ai-engineer-season-6-ocr-2569)** | **Rank: #53** (private leaderboard, jumped +16 spots) | **Score: 0.1587**
+
+Extracted structured voting data from 846 scanned Thai election result documents (Form สส.6/1) from the 2026 general election. Built a multi-model OCR pipeline with AI-powered assembly logic.
+
+**How we built it:**
+- **Pipeline:** 846 PNG scans → multi-model OCR → fuzzy party-name assembly → structured CSV
+- **OCR stack:** Gemini 3 Flash + Gemini 2.5 Pro + Gemini 2.5 Flash, merged with official กกต. election data
+- **Key technique:** Template-based party-name alignment instead of ballot-number mapping — solved the offset bug where 22+ docs had shifted ballot numbers
+- **Evaluation:** Built a local TDD eval system (8 tests), but learned that 5-doc local eval had zero correlation with Kaggle — only empirical Kaggle testing worked
+- **Iterations:** 16 Kaggle submissions, 6+ submission strategies, 900 OCR API calls (3-pass overnight run)
+- **Score journey:** 0.929 → 0.307 → 0.228 → 0.158 (each jump from fixing a different root cause)
+- **Tools:** Claude Code with `/loop` for 8+ hours of autonomous overnight monitoring
+
+### MiroFish — Vibe Coding Impact Simulation (March 2026)
+
+Used [MiroFish](https://github.com/666ghj/MiroFish) (a multi-agent swarm intelligence engine) to simulate whether "vibe coding" would create a developer demand boom or bust over 2026-2028.
+
+**Simulation specs:**
+- **168 rounds**, **40 AI agents**, **1,484 total actions**
+- Agents represented startup founders, security engineers, rescue engineers, AI tool companies, regulators, and Thai SMEs
+- Each agent had independent personality, long-term memory (Zep), and behavioral logic
+- Seed data included 50+ real research citations (NYU, Stanford, Veracode, IBM breach reports)
+
+**Key finding:** Developer demand **bifurcates** — senior security/rescue engineers see surging demand while junior prompt-only developers face commoditization. Not a uniform boom or bust, but a split.
+
 ## Background
 
 - **Doctor of Veterinary Medicine** — Chulalongkorn University, former veterinary neurosurgeon
