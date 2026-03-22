@@ -46,7 +46,7 @@ I'm a licensed veterinarian (Chulalongkorn University DVM) building AI tools for
 
 ### Super AI Engineer Season 6 — Election OCR (March 2026)
 
-**[Kaggle Competition](https://www.kaggle.com/competitions/super-ai-engineer-season-6-ocr-2569)** | **Rank: #53** (private leaderboard, jumped +16 spots) | **Score: 0.1587**
+**[GitHub](https://github.com/mingrath/election-ocr-hackathon)** | **[Kaggle Competition](https://www.kaggle.com/competitions/super-ai-engineer-season-6-ocr-2569)** | **Rank: #53** (private leaderboard, jumped +16 spots) | **Score: 0.1587**
 
 Extracted structured voting data from 846 scanned Thai election result documents (Form สส.6/1) from the 2026 general election. Built a multi-model OCR pipeline with AI-powered assembly logic.
 
