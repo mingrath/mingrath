@@ -96,3 +96,5 @@ I'm a licensed veterinarian (Chulalongkorn University DVM) building AI tools for
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mingrath)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mingrath@gmail.com)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ohmmingrath/)
+
+<a href="https://gitroll.io/profile/uW4TR3MvHWpeZ3FpQoh17rmwnUQN2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uW4TR3MvHWpeZ3FpQoh17rmwnUQN2?theme=dracula" alt="GitRoll Profile Badge"/></a>
