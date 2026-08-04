@@ -84,13 +84,6 @@ coffee-house chain.
 
 **3rd Place, Mental Health Track.**
 
-### Google Gemma 4 Hackathon
-
-**Travel Guide Concierge** — Mobile web app for tourists in Thailand's
-secondary cities: curated landmarks and locally-operated activities, with shop
-owners maintaining their own live data via magic-link edits, and a chatbot that
-generates itineraries from on-the-ground data.
-
 ---
 
 ## Simulation
@@ -137,7 +130,6 @@ Open-source tooling that makes **Claude Code** better for everyone.
 | **drawio-mcp** | MCP server for creating draw.io diagrams from LLMs — XML, Mermaid, and CSV |
 | **awesome-claude-skills** | Curated list of 100+ Claude Code skills across dev, data, DevOps, and more |
 | **ai-anti-hallucination** | Anti-hallucination rules for AI coding agents |
-| **arra-oracle-skills-cli** | Install Oracle skills to Claude Code, OpenCode, Cursor, and 12+ AI coding agents |
 
 ## AI agent frameworks
 
