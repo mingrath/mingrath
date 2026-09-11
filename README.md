@@ -1,6 +1,8 @@
 # Hi, I'm Ohm (Mingrath)
 
 > **Super AI Engineer Season 6 — Gold Medal** · Top 5 out of ~10,000 participants (AIAT)
+>
+> **Medal — Thailand Cyber Top Talent 2026 (Open category)** · NCSA × Huawei
 
 **ML & AI engineer — vet neurosurgery → computational neuroscience** | **Super AI SS6 Gold Medal**
 
@@ -95,6 +97,10 @@ specimens.
 **From Data to Insight** — Multi-branch time-series demand forecasting for a
 coffee-house chain.
 
+### Thailand Cyber Top Talent 2026 (TCTT)
+
+**Medal — Open category** · NCSA × Huawei. National cybersecurity CTF (organizers do not split Open medals into gold/silver/bronze).
+
 ### Siriraj × MIT Hacking Medicine 2025
 
 **3rd Place, Mental Health Track.**
@@ -177,6 +183,7 @@ changelog.
 - **Former veterinary neurosurgeon** — spinal-injury and epilepsy caseload; published implant-fatigue biomechanics research
 - **Medical writer & clinical research coordinator** — bioequivalence studies under ICH-GCP for Thai FDA submissions
 - **Super AI Engineer S6** (AIAT) — **Gold medal** · Top 5 / ~10,000
+- **Thailand Cyber Top Talent 2026** — **Medal (Open category)** · NCSA × Huawei
 - I write about ML, local LLMs, and agent design at [mingrath.com](https://mingrath.com)
 
 ## Activity
