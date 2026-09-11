@@ -3,6 +3,8 @@
 > **Super AI Engineer Season 6 — Gold Medal** · Top 5 out of ~10,000 participants (AIAT)
 >
 > **Medal — Thailand Cyber Top Talent 2026 (Open category)** · NCSA × Huawei
+>
+> **MIT Hacking Medicine 2025 Awardee** · Siriraj
 
 **ML & AI engineer — vet neurosurgery → computational neuroscience** | **Super AI SS6 Gold Medal**
 
