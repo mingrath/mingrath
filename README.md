@@ -21,7 +21,7 @@ Projects I care about most right now:
 
 **[bccnew2](https://github.com/mingrath/bccnew2)** — ADNI cognitive-forecasting (Brain Code Camp): measuring how much brain imaging improves a two-year MCI forecast beyond cognitive tests alone.
 
-**Governed swine-disease triage (AXONS)** — Governed refusal/decision layer over an LLM swine-disease triage assistant; eight vet-signed personas; the system can refuse, and we measure when it should. *AXONS poster — no public repo yet.*
+**[Governed swine-disease triage (AXONS)](https://mood.ohmmingrath.com/)** — Governed refusal/decision layer over an LLM swine-disease triage assistant; eight vet-signed personas; the system can refuse, and we measure when it should.
 
 ## What I do now
 
