@@ -1,6 +1,8 @@
 # Hi, I'm Ohm (Mingrath)
 
-**Machine learning & AI engineer — veterinary surgeon turned developer** | Bangkok
+> **Super AI Engineer Season 6 — Gold Medal** · Top 5 out of ~10,000 participants (AIAT)
+
+**Machine learning & AI engineer — veterinary surgeon turned developer** | Bangkok | **Super AI SS6 Gold**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -27,7 +29,8 @@ I cannot trace.
 I retrained through **Super AI Engineer Season 6** (Artificial Intelligence
 Association of Thailand) — a seven-month national program covering classical
 machine learning, computer vision, statistics, and building an LLM from
-scratch — completed alongside part-time clinical work.
+scratch — completed alongside part-time clinical work. Finished with a
+**Gold medal · Top 5 / ~10,000**.
 
 > **A note on links:** most of the projects below live in private
 > repositories. The two public ones are linked; the rest are named and
@@ -64,6 +67,8 @@ validated-claim number.
 ## Competitions & applied ML
 
 ### Super AI Engineer Season 6 (AIAT)
+
+**Gold medal · Top 5 / ~10,000.**
 
 **Election OCR** — Structured voting data extracted from 846 scanned Thai
 election result documents (Form สส.6/1) from the 2026 general election. A
@@ -161,7 +166,7 @@ changelog.
 - **DVM** and **MSc Veterinary Surgery** (First-Class Honours, GPA 3.95) — Chulalongkorn University
 - **Former veterinary neurosurgeon** — spinal-injury and epilepsy caseload; published implant-fatigue biomechanics research
 - **Medical writer & clinical research coordinator** — bioequivalence studies under ICH-GCP for Thai FDA submissions
-- **Super AI Engineer S6** (AIAT) — seven-month national AI program
+- **Super AI Engineer S6** (AIAT) — **Gold medal** · Top 5 / ~10,000
 - I write about ML, local LLMs, and agent design at [mingrath.com](https://mingrath.com)
 
 ## Activity
