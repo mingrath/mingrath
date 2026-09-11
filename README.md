@@ -2,7 +2,7 @@
 
 > **Super AI Engineer Season 6 — Gold Medal** · Top 5 out of ~10,000 participants (AIAT)
 
-**Machine learning & AI engineer — from veterinary neurosurgery toward computational neuroscience** | **Super AI SS6 Gold Medal**
+**ML & AI engineer — vet neurosurgery → computational neuroscience** | **Super AI SS6 Gold Medal**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
