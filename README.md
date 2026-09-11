@@ -15,11 +15,13 @@
 
 ## Proud of
 
-Two projects I care about most right now:
+Projects I care about most right now:
 
 **[websiteagent](https://github.com/mingrath/websiteagent)** — Client-site operator that reads LINE briefs, builds and deploys the site, and pauses for five human decisions (no code required of the operator).
 
 **[bccnew2](https://github.com/mingrath/bccnew2)** — ADNI cognitive-forecasting (Brain Code Camp): measuring how much brain imaging improves a two-year MCI forecast beyond cognitive tests alone.
+
+**Governed swine-disease triage (AXONS)** — Governed refusal/decision layer over an LLM swine-disease triage assistant; eight vet-signed personas; the system can refuse, and we measure when it should. *AXONS poster — no public repo yet.*
 
 ## What I do now
 
