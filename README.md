@@ -13,6 +13,14 @@
 
 ---
 
+## Proud of
+
+Two projects I care about most right now:
+
+**[websiteagent](https://github.com/mingrath/websiteagent)** — Client-site operator that reads LINE briefs, builds and deploys the site, and pauses for five human decisions (no code required of the operator).
+
+**[bccnew2](https://github.com/mingrath/bccnew2)** — ADNI cognitive-forecasting (Brain Code Camp): measuring how much brain imaging improves a two-year MCI forecast beyond cognitive tests alone.
+
 ## What I do now
 
 **AI Engineer Intern at AXONS (CP Group)**, working on AI and NLP engineering.
